@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ShalobalovPI501MzPractice:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ShalobalovPI501MzPractice_jar</output-path>
+    <root id="archive" name="ShalobalovPI501MzPractice.jar">
+      <element id="module-output" name="ShalobalovPI501MzPractice" />
+    </root>
+  </artifact>
+</component>

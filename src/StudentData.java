@@ -1,8 +1,5 @@
 import java.util.Random;
 
-/**
- * Created by Shao on 27.05.2017.
- */
 public class StudentData {
     private Names name;
     private double averageScore;
@@ -12,6 +9,12 @@ public class StudentData {
         this.name = name;
         this.averageScore = averageScore;
         this.sport = sport;
+    }
+
+    public StudentData(StudentData studentData) {
+        this.name = studentData.getName();
+        this.averageScore = studentData.getAverageScore();
+        this.sport = studentData.isSport();
     }
 
     public StudentData() {

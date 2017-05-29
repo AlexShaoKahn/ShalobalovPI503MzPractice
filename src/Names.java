@@ -1,6 +1,3 @@
-/**
- * Created by Shao on 27.05.2017.
- */
 public enum Names {
     Student01, Student02, Student03, Student04, Student05,
     Student06, Student07, Student08, Student09, Student10,
